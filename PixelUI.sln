@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6F7E0AE1-ED9F-8EAB-75BB-9FF59F4D1F6A}") = "PixelUI", "Assembly-CSharp-firstpass.csproj", "{1B7C125C-5FAF-85E4-1274-4E5B7B5FD611}"
+EndProject
+Project("{6F7E0AE1-ED9F-8EAB-75BB-9FF59F4D1F6A}") = "PixelUI", "Assembly-CSharp.csproj", "{669D8F1C-F76A-5EC6-E0D5-DF4459FBE064}"
+EndProject
+Project("{6F7E0AE1-ED9F-8EAB-75BB-9FF59F4D1F6A}") = "PixelUI", "Assembly-CSharp-Editor-firstpass.csproj", "{4457D66A-1278-47DF-7D3B-9C30D44A5A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7C125C-5FAF-85E4-1274-4E5B7B5FD611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7C125C-5FAF-85E4-1274-4E5B7B5FD611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7C125C-5FAF-85E4-1274-4E5B7B5FD611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7C125C-5FAF-85E4-1274-4E5B7B5FD611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669D8F1C-F76A-5EC6-E0D5-DF4459FBE064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669D8F1C-F76A-5EC6-E0D5-DF4459FBE064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669D8F1C-F76A-5EC6-E0D5-DF4459FBE064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669D8F1C-F76A-5EC6-E0D5-DF4459FBE064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4457D66A-1278-47DF-7D3B-9C30D44A5A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4457D66A-1278-47DF-7D3B-9C30D44A5A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4457D66A-1278-47DF-7D3B-9C30D44A5A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4457D66A-1278-47DF-7D3B-9C30D44A5A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
